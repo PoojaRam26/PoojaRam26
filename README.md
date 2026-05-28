@@ -16,7 +16,7 @@
 * Python Development
 * Flutter App Development
 
-## 💞️ Open to Collaborate On
+## Open to Collaborate On
 
 * Python Projects
 * AI & Automation Tools
